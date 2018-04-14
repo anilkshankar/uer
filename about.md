@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-## Summary
+
 **10** years of experience leading actionable and timely  research via a hands-on data informed approach, and improve the lives of end-users. 
 
 ### Experience
