@@ -16,9 +16,8 @@
 title: Anil Shankar, User Experience Researcher
 email: firstname+k+lastname@google-email.com 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Mixed-methods User Experience Researcher since 2008 in domains spanning both enterprise and consumer-facing products.
+
 baseurl: "/uer" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: anilkshankar

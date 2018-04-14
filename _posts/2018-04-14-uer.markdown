@@ -5,7 +5,7 @@ date:   2018-04-14 14:06:35 -0700
 categories: jekyll update
 ---
 ## Summary
-10 years of experience To lead actionable and timely UX research via a hands-on data informed approach, and improve the lives of end-users. 
+**10** years of experience leading actionable and timely  research via a hands-on data informed approach, and improve the lives of end-users. 
 
 ### Experience
 #### Senior UX Manager: Research & Design, Docker, San Francisco, CA 				              07/2017 - present
@@ -27,14 +27,17 @@ As the first HCI researcher at Starkey, I worked with hearing researchers and pr
 I architected a machine-learning framework to personalize desktop applications. My research aimed to optimize interruptions to users by harnessing both internal and external contextual information from a user's environment to predict her preferred application actions.
 
 ### Education
-Ph.D., Computer Science: Human Computer Interaction, University of Nevada, Reno, NV, USA			2008
-Dissertation "SYCOPHANT: A Context Based Generalized User Modeling Framework for Desktop Applications"
+### Ph.D. Computer Science
+#####  Human Computer Interaction
+##### University of Nevada, Reno, NV, USA			2008
+Dissertation: *SYCOPHANT* -  A Context Based Generalized User Modeling Framework for Desktop Applications
 
-### User Experience Research Skills
+### UER Skills
 - Broad experience with both quantitative and qualitative research methods.
 - R for UX research, proficient with programming languages depending on project needs.
 - Creating a scalable UX research and design framework, mentoring researchers, designers, and interns.
 - Onsite User Interviews, Remote User Testing, Surveys, Experimental Design, Camtasia, Morae Manager, Observer, and Recorder tools for UX research.
 
 ### Professional Activities
-Member: ACM, Bay-CHI, UXPA; Reviewer: CHI (2006 - current ), UIST, UxPA
+* Member: ACM, Bay-CHI, UXPA
+* Reviewer: CHI (2006 - current ), UIST, UxPA
