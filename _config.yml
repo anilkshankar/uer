@@ -15,11 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Anil Shankar, User Experience Researcher
 email: firstname+k+lastname@google-email.com 
-description: >- # this means to ignore newlines until "baseurl:"
-Mixed-methods User Experience Researcher since 2008 in domains spanning both enterprise and consumer-facing products.
+description: Mixed-methods User Experience Researcher since 2008 in domains spanning both enterprise and consumer-facing products.
 
 baseurl: "/uer" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: anilkshankar
 github_username:  anilkshankar
 
