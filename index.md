@@ -4,3 +4,14 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+## Site is under construction
+...in the meantime here is  [current CV](https://anilkshankar.github.io/uer/about/)
+
+### To Dos
+* [ ] Share example case studies
+* [ ] Simplify content
+
+As Kanye West said:
+> We're living the future so
+> the present is our past.
+
